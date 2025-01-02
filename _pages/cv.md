@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environmental Science, Analytics Minor 2024
+* B.S. in Environmental Science + Analytics Minor, University of Connecticut, 2024
 
 Work experience
 ======
