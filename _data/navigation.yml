@@ -6,22 +6,22 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /juliettedoyle.github.io/_pages/publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Presentations"
+    url: /juliettedoyle.github.io/_pages/presentations/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Photography"
+    url: /juliettedoyle.github.io/_pages/photography/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "GIS Portfolio"
+    url: /juliettedoyle.github.io/_pages/portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Certificates"
+    url: /juliettedoyle.github.io/_pages/certificates/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /juliettedoyle.github.io/_pages/resume/
     
   - title: "Guide"
     url: /markdown/
