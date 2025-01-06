@@ -12,7 +12,7 @@ title                    : "Juliette Doyle"
 title_separator          : "-"
 name                     : &name "Juliette Doyle"
 description              : &description "Hello and welcome to my website! This is where I will be posting my work, both academic and professional, to showcase the skills I develop throughout my career."
-url                      : https://juliettedoyle.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://juliettedoyle.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
