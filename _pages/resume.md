@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /juliettedoyle.github.io/_pages/resume/
 author_profile: true
 redirect_from:
   - /resume
